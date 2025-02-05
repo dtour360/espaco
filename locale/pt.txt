@@ -1,0 +1,81 @@
+#: locale=pt
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Media
+
+### Audio
+audio_EAF1BB6E_C2A3_374F_41E8_5DC45023B837.path = null
+audiores_EAE3F6D9_C2A1_1155_41E1_7E15FB0E7CE8.mp3Url = media/audio_EAF1BB6E_C2A3_374F_41E8_5DC45023B837_pt.mp3
+audiores_EAE3F6D9_C2A1_1155_41E1_7E15FB0E7CE8.oggUrl = media/audio_EAF1BB6E_C2A3_374F_41E8_5DC45023B837_pt.ogg
+
+### Title
+panorama_D9962C17_D692_6E83_41E5_07F898EB3883.label = ALTAR PARA NOIVOS
+panorama_D8E69822_D692_76BD_41D7_5A66BC5BCA9B.label = CORREDOR DE PASSAGEM
+panorama_D8E4F3A2_D692_1982_41C6_6F31985C74E4.label = CORREDOR DE PASSAGEM
+panorama_D8E41F1C_D692_2A85_41DB_F61492171DFF.label = CORREDOR DE PASSAGEM
+panorama_D8E455C3_D692_1983_41CD_A126689C786E.label = ENTRADA
+panorama_D8E4BA65_D692_2A86_41E3_68A6662185AE.label = ENTRADA DO SALÃO DE FESTA
+panorama_D8E46142_D69D_F6FD_41CA_FDA915FA44BC.label = PASSAGEM DA NOIVA
+panorama_D8E79823_D69E_1682_41D3_FA07A2EE6423.label = SALÃO DE FESTA
+panorama_D8E42CBC_D69D_EF85_41E0_9902C5ADC901.label = SALÃO DE FESTA 
+panorama_D8E7C35F_D69E_3A83_41C6_4ADA4EE531FC.label = SALÃO DE FESTA CENTRAL
+panorama_D8E7AECB_D69E_2B83_41BF_18B20552BBCA.label = SALÃO DE FESTA MÚSICA
+
+## Skin
+
+### Button
+Button_D323E1BA_C167_33D7_41D6_8D45D570A9D4.label = ALTAR DOS NOIVOS
+Button_D323E1BA_C167_33D7_41D6_8D45D570A9D4_mobile.label = ALTAR DOS NOIVOS
+Button_D32231BA_C167_33D7_41D9_96CD740A02EA_mobile.label = AMBIENTES
+Button_D32231BA_C167_33D7_41D9_96CD740A02EA.label = AMBIENTES
+Button_D323B1BB_C167_33D6_41C3_1CCE01CBBE9D_mobile.label = CHAMAR AQUI
+Button_D32381BA_C167_33D7_41E8_2F613CCAC58B.label = DANÇAR
+Button_D32381BA_C167_33D7_41E8_2F613CCAC58B_mobile.label = DANÇAR
+Button_D323F1BA_C167_33D7_41D2_0A2E898A2E06_mobile.label = ENTRADA
+Button_D323F1BA_C167_33D7_41D2_0A2E898A2E06.label = ENTRADA
+Button_D1FD1F0D_C412_3252_41B0_29D2F7D1CDCF_mobile.label = INSTAGRAM
+Button_D323B1BB_C167_33D6_41C3_1CCE01CBBE9D.label = INSTAGRAM
+Button_D124BCEE_C41E_37AE_41C9_7659F8CE1D6D_mobile.label = LOCALIZAÇÃO
+Button_D17C02BB_C2A3_11D5_41E7_08531DDA8592.label = LOCALIZAÇÃO
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_D07930DA_C417_CFF6_41D5_C9E175B972BF_mobile.label = NOS AVALIE NO GOOGLE
+Button_D23F0536_C163_10DE_41D4_A5133B0990BE.label = NOS AVALIE NO GOOGLE
+Button_D32301BB_C167_33D6_41C8_C97FD2458596.label = RECOLHER
+Button_E2DF1DD4_C3A1_1352_41E7_4BC6CE088E07_mobile.label = RESERVAR AGORA
+Button_E2DF1DD4_C3A1_1352_41E7_4BC6CE088E07.label = RESERVAR AGORA
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC_mobile.label = SALÃO DE FESTA
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC.label = SALÃO DE FESTA
+Button_D7FE816A_C41E_4ED6_41E7_51C3EA89392B_mobile.label = VARANDA
+Button_D1983413_C413_D676_41E3_DCBC933173DD_mobile.label = VARANDA
+Button_D042B9C9_C416_51D5_41D8_A28A245552B3_mobile.label = VARANDA
+
+### Image
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.path = null
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.path = null
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_pt.jpg
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_pt.jpg
+
+### Label
+Label_D74302EE_C416_53AF_41D3_8E7A95B7EB16_mobile.text = ESPAÇO Y
+Label_D732FA7E_C436_72AF_41E4_D0DF865EB340_mobile.text = ESPAÇO Y
+Label_CE27C577_C1A3_335D_41E7_0C36152B7BD1.text = Espaço Y
+Label_C3EFBE08_D6B6_6A8D_41E2_A0757F63111C.text = {{title}}
+Label_A88D3AD9_BE77_99E3_41E1_D0AC344BEE9E_mobile.text = {{title}}
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao tour virtual 360º
+
+### Title
+tour.name = Modelo Espaço para eventos
